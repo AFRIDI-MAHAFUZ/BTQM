@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "278979249556",
+    "firebase_url": "https://tourmatetest-1f011.firebaseio.com",
+    "project_id": "tourmatetest-1f011",
+    "storage_bucket": "tourmatetest-1f011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278979249556:android:aba800ce97ca35135bfb81",
+        "android_client_info": {
+          "package_name": "com.example.tourmatetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278979249556-a70vi3odbl8saj71gfunibt9osl5odh9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tourmatetest",
+            "certificate_hash": "c7eaa8cb7cc1681a9a86b37f2225aa8cc5ac1047"
+          }
+        },
+        {
+          "client_id": "278979249556-r76giibvt7br1v66lnn1ronvr5l03bp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKSjF4d0V7QZWrEOqKmr1CiPVLce2j-EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278979249556-r76giibvt7br1v66lnn1ronvr5l03bp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

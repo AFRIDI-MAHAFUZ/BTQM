@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="#5321AD"
+    android:gravity="center"
+    android:layout_height="250dp">
+
+
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@drawable/logo"
+        android:id="@+id/profilePic"
+        android:elevation="6dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="bismllahmadrasah@gmail.com"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"
+        android:textColor="#ffffff"
+        android:id="@+id/headeremail"/>
+
+
+
+</LinearLayout>
